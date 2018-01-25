@@ -1,7 +1,9 @@
 # Psychic-Game
 
 
-![psychic screen record](https://user-images.githubusercontent.com/29586334/35397559-cb8cc28c-01bd-11e8-92e2-a0eb98c3a755.gif)
+![psychic gif record](https://user-images.githubusercontent.com/29586334/35398225-6511de8c-01bf-11e8-8301-3b1df34c249c.gif)
 
 
-![psych2](https://user-images.githubusercontent.com/29586334/35397879-9ac6b0a8-01be-11e8-84e3-291e3c23d140.gif)
+
+# How It Works
+### The user is trying to guess the randomly selected letter that the computer has come up with by entering a letter on the keyboard. If the user is wrong, their number of guesses decreses until they have zero guesses left. If the user is right, they win the game and have matched with the computers guess. Once the user has either won or lost the game, an alert will notify them and they can reset the game. 
